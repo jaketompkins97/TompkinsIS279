@@ -1,6 +1,6 @@
 # TompkinsIS279
 
-This repository is for Jake's final project in IS 279: User Experience Research course in the Department of Information Studies at UCLA.
+This repository is for Jake's final project in IS 279: User Experience Research course at UCLA.
 
 ## User Experience Research for the P300 Speller: Designing an Optimal Keyboard
 
