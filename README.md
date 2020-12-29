@@ -34,7 +34,7 @@ The first task asked users to type the phrase “quit bothering me while I’m r
 
 In conclusion to the session, each user was asked a few brief questions about their experience performing the activities using their assigned keyboard. The first question asked users to rank how comfortable they felt using their assigned keyboard to perform the typing activities. This data was ranked using a Likert scale from 1 (very uncomfortable) to 5 (very comfortable). Next, the user was asked if they found the layout of the keyboard confusing by answering either “yes” or “no.” For contextual inquiry, users were asked to provide more information about why they selected their answers. Each of these data points were collected and submitted using a Google Form, including the user’s name and the keyboard they used. This process streamlined data cleanup and made analysis much easier. The dataset from the A/B remote moderated tests was merged with the screener dataset, which captured the demographic data and typing habits data collected on participants in the first phase of the research.
 
-**Figure X**
+**Figure 1**
 
 *Demographic Data*
 
@@ -46,13 +46,13 @@ Data from this research was collected using Google Forms, which significantly si
 
 The first analysis I conducted with the data was a quadrant map that illustrated the relationship between the typing speed of users and the rating they gave for the keyboard they used. Using a 5x5 grid, users were plotted to identify any patterns in their data. Along the y-axis, the typists were plotted based on their speeds, starting with 1 as the slowest and then progressing to 5 as the fastest. For the x-axis, I started with 1 being the least comfortable and moving towards 5, which was the most comfortable. Once each of the 12 participants were plotted on the quadrant map based on their data, they were color coordinated to identify which keyboard they used.
 
-**Figure X**
+**Figure 2**
 
 *Alphabetical Keyboard Results*
 
 ![alphabetical keyboard results](img/alphabetical_users.png)
 
-**Figure X**
+**Figure 3**
 
 *QWERTY Keyboard Results*
 
@@ -60,13 +60,13 @@ The first analysis I conducted with the data was a quadrant map that illustrated
 
 With all users plotted on the quadrant map, I pulled direct quotes from the contextual inquiry process and attached them to the user’s data point on the map. The most common user feedback given after using the QWERTY keyboard was that they were “used to” this keyboard. Other meaningful quotes included: “it’s just like the keyboard I use on my computer” or “my muscle memory usually helps with my typing.” Users from the alphabetical keyboard group gave feedback like “the letters weren’t in the correct spots” and “I kept going back to the QWERTY keyboard.” I wanted to document these quotes with the plots on the quadrant map to give more context about the users and their experience with the keyboard they used.
 
-**Figure X**
+**Figure 4**
 
 *Quotes from Alphabetical Keyboard Users*
 
 ![quotes from alphabetical group](img/alphabetical_quotes.png)
 
-**Figure X**
+**Figure 5**
 
 *Quotes from QWERTY Keyboard Users*
 
@@ -75,7 +75,7 @@ With all users plotted on the quadrant map, I pulled direct quotes from the cont
 
 A relationship became apparent from the quadrant map, indicating that an overwhelming majority of users who completed the typing activities using the alphabetical keyboard layout felt less comfortable than the users who were assigned the QWERTY keyboard. This relationship is apparent across the spread of different typing speeds. Additionally, users were asked a “yes” or “no” question to gauge whether or not they found the keyboard layout confusing. While the QWERTY keyboard users unanimously agreed the keyboard was not confusing, exactly 50% of users who were assigned the alphabetical keyboard indicated they felt it was confusing to use.
 
-**Figure X**
+**Figure 6**
 
 *Contextual Survey Responses*
 
@@ -83,7 +83,7 @@ A relationship became apparent from the quadrant map, indicating that an overwhe
 
 The quantitative data collected from the timed tasks was evaluated using a series of bar graphs. A bar graph was produced for each task, then distinguished between the two keyboard types. With each bar representing an individual user, different colors were used to identify the different speed category they belonged in. Evaluating each task broken down by keyboard type, a pattern emerges showing that, despite differing typing speeds among users, those who completed tasks using the QWERTY keyboard typically took less time than users who completed the same tasks using an alphabetical keyboard. It is important to acknowledge the potential outlier in the timed task analysis data. One user took an unusual amount of time to complete each of the tasks; therefore, any insights drawn from this data point are speculative.
 
-**Figure X**
+**Figure 7**
 
 *Timed Task Results*
 
@@ -91,9 +91,9 @@ The quantitative data collected from the timed tasks was evaluated using a serie
 
 ### Research Findings
 
-The qualitative data collected from interviewing users suggests that the preferred keyboard for typing is the traditional QWERTY layout (Figure 1). According to the feedback received by users, this keyboard is more comfortable to operate. This claim is supported by the quantitative data from the timed tasks. Evaluating this data made it clear that, despite the range of typing speeds, users who typed using the QWERTY keyboard were typically able to identify target letters much quicker than the individuals using the alphabetical keyboard layout. According to users interviewed from this research, it is better to offer equipment that feels familiar, which can improve their confidence and ability to complete tasks.  
+The qualitative data collected from interviewing users suggests that the preferred keyboard for typing is the traditional QWERTY layout. According to the feedback received by users, this keyboard is more comfortable to operate. This claim is supported by the quantitative data from the timed tasks. Evaluating this data made it clear that, despite the range of typing speeds, users who typed using the QWERTY keyboard were typically able to identify target letters much quicker than the individuals using the alphabetical keyboard layout. According to users interviewed from this research, it is better to offer equipment that feels familiar, which can improve their confidence and ability to complete tasks.  
 
-**Figure X**
+**Figure 8**
 
 *Quadrant Map*
 
